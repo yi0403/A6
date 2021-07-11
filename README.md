@@ -2,7 +2,8 @@
 
 1.開啟終端機將專案存至本機:<br>
 2.進入專案目錄<br>
-3.安裝套件<br>
+3.安裝套件(Express.js:4.17.1
+Express-handlebars:5.3.2)<br>
   `npm install`<br>
 4.加入種子資料<br>
   `npm run seed`<br>
